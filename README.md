@@ -6,7 +6,7 @@
 ***
 
 <details>
-<summary>Contactez-moi 📬</summary>
+<summary>Contactez-moi 📬 : </summary>
 <br> 
 <a href="https://www.linkedin.com/in/adnane-tba/">
   <img align="left" alt="Adnane's Linked-in" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
