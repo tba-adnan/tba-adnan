@@ -10,5 +10,3 @@
   <img align="left" alt="Adnane's Linked-in" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-
-📧 [Email](emailto:tebbaa.adnane.dev@gmail.com "Don't spam! :)")
