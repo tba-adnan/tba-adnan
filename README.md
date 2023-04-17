@@ -3,6 +3,6 @@
     Full Stack Web and Mobile Dev with background in Cyber security Experienced in <strong>Python, PHP/Laravel</strong>, <strong>JS/React</strong> and <strong>Kotlin</strong>.
     <br/>
     <a href="https://www.linkedin.com/in/adnane-tba/">LinkedIn</a> .
-    <a href="https://tebbaa-adnane.com">www</a> .
+    <a href="https://tebbaa-adnane.com">tebbaa-adnane.com</a> .
   </samp>
 </p>
